@@ -26,10 +26,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrecan42&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrecan42&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB00FF&center=true&vCenter=true&background=00000000&lines=Writing+Code+%2B+Making+A+Song+%F0%9F%8E%A7;Living+the+code+life+%F0%9F%92%BB;Always+High%2C+always+%F0%9F%A5%B3" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 📫 Contact Me
