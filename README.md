@@ -1,8 +1,8 @@
 <h1 align="center" style="color: #BB00FF;">Hi 👋, I'm Emrecan</h1>
-<h3 align="center" style="color: #BB00FF;">A Passionate Developer and Artist 👾🎧</h3>
+<h3 align="center" style="color: #BB00FF;">A Passionate Developer & Artist 👾🎧</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB00FF&center=true&vCenter=true&background=00000000&lines=Writing+Code+%2B+Making+A+Song+%F0%9F%8E%A7;Living+the+code+life+%F0%9F%92%BB;Always+High%2C+always+%F0%9F%A5%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB00FF&center=true&vCenter=true&background=00000000&lines=Writing+Code+%2B+Making+A+Song+%F0%9F%8E%A7;Living+The+Code+Life+%F0%9F%92%BB;Always+High%2C+Always+%F0%9F%A5%B3" alt="Typing SVG" />
 </p>
 
 ---
