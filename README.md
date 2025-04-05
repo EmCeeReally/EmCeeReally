@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer & Artist 🧠🎧</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Writing+Code+%2B+Making+A+Song+%F0%9F%8E%A7;Living+the+code+life+%F0%9F%92%BB;Always+learning%2C+always+hungry+%F0%9F%A5%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=BB00FF&center=true&vCenter=true&background=00000000&lines=Writing+Code+%2B+Making+A+Song+%F0%9F%8E%A7;Living+the+code+life+%F0%9F%92%BB;Always+High%2C+always+%F0%9F%A5%AC" alt="Typing SVG" />
 </p>
 
 ---
